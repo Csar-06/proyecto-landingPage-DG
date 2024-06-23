@@ -110,12 +110,14 @@ section{
     width: 400px;
     margin: 10% 0 0 10%;
     height: auto;
-    transition: all 5s linear; /* esto hace que la transición sea lineal */
+    border-radius: 50%;
+    transition: all 200ms ease-in-out; /* esto hace que la transición sea lineal */
 }
 
 .hero-img img:hover {
-    width: 450px;
-    opacity: 0.6;
+    width:90%;
+    
+    border-radius: 5%;
 }
 
 .hero-text a {
