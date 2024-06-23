@@ -12,7 +12,7 @@ En este curso comenzarás desde cero en el mundo del código y adquirirás el co
 
 # Acerca de SERGIE CODE:
 
-Sigan a **Sergie** Code en: 
+Sigan a **Sergie Code** en: 
 
 [Canal de Youtube | Sergie Code](https://www.youtube.com/@SergieCode)
 
